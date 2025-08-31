@@ -50,7 +50,7 @@ flowchart TD
     D --> D1[Log Transformation]
     D --> D2[De-seasonalisation]
     D --> D3[Box-Cox Transformation]
-    D --> D4[Feature Selection (Forward + Backward)]
+    D --> D4[Feature Selection (Forward & Backward)]
 
     D --> E[Model Building]
     E --> E1[Linear Regression (Baseline)]
@@ -88,10 +88,6 @@ flowchart TD
 - **National River Flow Archive (NRFA)** & **Natural Resources Wales**: For providing gauged river flow and rainfall data.  
 
 ---
-
 ## 📬 Contact
 👤 **Abhishek Kumar**  
-📧 abhishekkumar.dsanalytics@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)  
-
----
+🔗 [LinkedIn](https://www.linkedin.com/in/abhi-km/) 
