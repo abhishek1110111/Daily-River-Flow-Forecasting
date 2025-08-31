@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Daily-River-Flow-Forecasting
-Daily River Flow Forecasting
-=======
+
 # 🌊 River Flow Forecasting Using Machine Learning
 
 This repository contains my MSc Dissertation project on **Daily River Flow Forecasting** conducted at **Cardiff University**.  
@@ -95,4 +92,4 @@ flowchart TD
 ## 📬 Contact
 👤 **Abhishek Kumar**  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhi-km/) 
->>>>>>> master
+
