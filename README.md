@@ -50,15 +50,15 @@ flowchart TD
     D --> D1[Log Transformation]
     D --> D2[De-seasonalisation]
     D --> D3[Box-Cox Transformation]
-    D --> D4[Feature Selection (Forward & Backward)]
+    D --> D4[Feature Selection 'Forward & Backward']
 
     D --> E[Model Building]
-    E --> E1[Linear Regression (Baseline)]
-    E --> E2[Support Vector Regression (SVR)]
+    E --> E1[Linear Regression 'Baseline']
+    E --> E2[Support Vector Regression 'SVR']
     E --> E3[Neural Network]
     E --> E4[Generalised Additive Model]
 
-    E2 --> F[Hyperparameter Optimisation (Random Search CV)]
+    E2 --> F[Hyperparameter Optimisation 'Random Search CV']
     F --> G[Evaluation]
 
     E1 --> G
