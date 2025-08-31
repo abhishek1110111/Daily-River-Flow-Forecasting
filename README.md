@@ -66,7 +66,7 @@ flowchart TD
     E4 --> G
 
     G --> H[Model Comparison]
-    H --> I[Best Model: SVR (Box-Cox Data)]
+    H --> I[Best Model: SVR 'Box-Cox Data']
     I --> J[Next-Day Prediction]
 ```
 
